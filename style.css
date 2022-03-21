@@ -90,6 +90,7 @@ h2{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
+    margin-top: 20px;
 
 
 }
@@ -118,6 +119,7 @@ h2{
         background-repeat: no-repeat;
         background-position: center center;
         background-size: contain;
+
     
     
     }
@@ -143,7 +145,6 @@ h2{
         font-size: 30px;
          margin-bottom: 2rem;
         color: #A41C4A;
-        margin-top: -100px;
         
     }
     .lorem{
@@ -194,7 +195,6 @@ h2{
         height: 60vh;
         background-repeat: no-repeat;
         background-position: center center;
-        margin-top: -60px;
 
     
     
